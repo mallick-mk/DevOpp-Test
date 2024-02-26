@@ -1,8 +1,7 @@
 {
-  "name": "my-project",
+  "name": "DevOpp-Test",
   "version": "1.0.0",
-  "description": "A description of my project",
-  "main": "index.js",
+  "description": "A testing project",
   "scripts": {
     "test": "jest"
   },
