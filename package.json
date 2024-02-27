@@ -9,5 +9,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "jest": {
+    "testMatch": ["**/__tests__/**/*.js", "**/?(*.)+(spec|test).js"]
   }
 }
